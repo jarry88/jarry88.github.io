@@ -5,7 +5,7 @@ My core value lies in bridging hardware, software, and AI to solve efficiency ch
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 | Domain               | Key Skills                                                                 |
 |----------------------|----------------------------------------------------------------------------|
 | **AI Full-Stack**    | Model Dev: TensorFlow/PyTorch (image classification, time-series prediction); Deployment: TensorFlow Lite, ONNX Runtime; Data Processing: Pandas/NumPy/Sklearn |
