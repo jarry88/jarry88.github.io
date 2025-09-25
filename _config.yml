@@ -14,6 +14,7 @@ sass:
 
 # 使用 GitHub Pages 官方支持的主题（避免主题依赖缺失）
 theme: jekyll-theme-primer  # 简单干净的官方主题，兼容性最好
+markdown: kramdown
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
