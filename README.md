@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zhipeng Gu (Biran)  
+# 👋 Hi, I'm Zhipeng Gu (Brian)  
 
 An Industry 4.0 & AI Full-Stack Engineer with 7+ years of expertise, focusing on **ERP system development**, **CI/CD pipeline building**, and **end-to-end AI implementation**.  
 My core value lies in bridging hardware, software, and AI to solve efficiency challenges in industrial & enterprise scenarios.
