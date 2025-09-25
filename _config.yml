@@ -1,0 +1,16 @@
+# _config.yml 核心配置
+title: Zhipeng Gu (Ray) - Personal Page
+description: Industry 4.0 & AI Full-Stack Engineer
+baseurl: ""  # 若仓库是 <用户名>.github.io，此处必须为空
+url: "https://jarry88.github.io"  # 你的 GitHub Pages 最终访问 URL
+github_username: jarry88
+
+# 构建相关配置（解决目录和 SCSS 问题）
+source: ./docs  # 明确指定构建源目录为 docs（与日志匹配）
+destination: ./docs/_site  # 构建输出目录（自动生成，无需手动创建）
+sass:
+  sass_dir: ./docs/assets/css  # 告诉 Jekyll SCSS 文件的存放路径
+  style: compressed  # SCSS 编译为压缩版 CSS，减少体积
+
+# 使用 GitHub Pages 官方支持的主题（避免主题依赖缺失）
+theme: jekyll-theme-primer  # 简单干净的官方主题，兼容性最好
